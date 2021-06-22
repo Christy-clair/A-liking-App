@@ -1,1 +1,1 @@
-# created a liking App using CodeSandbox
+# Created a liking App using CodeSandbox
