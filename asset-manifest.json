@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://christy-clair.github.io/csb-90pmk/static/css/main.9a54d51f.chunk.css",
+    "main.js": "https://christy-clair.github.io/csb-90pmk/static/js/main.3246fa09.chunk.js",
+    "main.js.map": "https://christy-clair.github.io/csb-90pmk/static/js/main.3246fa09.chunk.js.map",
+    "runtime-main.js": "https://christy-clair.github.io/csb-90pmk/static/js/runtime-main.826aa6f9.js",
+    "runtime-main.js.map": "https://christy-clair.github.io/csb-90pmk/static/js/runtime-main.826aa6f9.js.map",
+    "static/js/2.432a9318.chunk.js": "https://christy-clair.github.io/csb-90pmk/static/js/2.432a9318.chunk.js",
+    "static/js/2.432a9318.chunk.js.map": "https://christy-clair.github.io/csb-90pmk/static/js/2.432a9318.chunk.js.map",
+    "index.html": "https://christy-clair.github.io/csb-90pmk/index.html",
+    "static/css/main.9a54d51f.chunk.css.map": "https://christy-clair.github.io/csb-90pmk/static/css/main.9a54d51f.chunk.css.map",
+    "static/js/2.432a9318.chunk.js.LICENSE.txt": "https://christy-clair.github.io/csb-90pmk/static/js/2.432a9318.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.826aa6f9.js",
+    "static/js/2.432a9318.chunk.js",
+    "static/css/main.9a54d51f.chunk.css",
+    "static/js/main.3246fa09.chunk.js"
+  ]
+}
